@@ -4,25 +4,25 @@ This project focuses on predicting multiple blend properties (e.g., `BlendProper
 
 ## 📖 Table of Contents
 
-* [Project Overview](#project-overview)
+* [Project Overview](#-project-overview)
 
-* [Data Description](#data-description)
+* [Data Description](#-data-description)
 
-* [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+* [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
 
-* [Data Preprocessing](#data-pre-processing)
+* [Data Preprocessing](#-data-pre-processing)
 
-* [Feature Engineering](#feature-engineering)
+* [Feature Engineering](#-feature-engineering)
 
-* [Model Building](#model-building)
+* [Model Building](#-model-building)
 
-* [Prediction and Submission](#prediction-and-submission)
+* [Prediction and Submission](#-prediction-and-submission)
 
-* [Tech Stack](#tech-stack)
+* [Tech Stack](#-tech-stack)
 
-* [Getting Started](#getting-started)
+* [Getting Started](#-getting-started)
 
-* [Contact](#contact)
+* [Contact](#-contact)
 
 ## 🚀 Project Overview
 
@@ -111,36 +111,7 @@ After training, the models are used to generate predictions on the `test_df`.
 
 * **Environment**: Google Colab (for `google.colab.files` for file uploads)
 
-## 🚀 Getting Started
 
-To replicate this project locally or run it in a similar environment:
-
-### Clone the repository
-
-
-git clone https://github.com/Mridul180304/StillPoint.git
-cd StillPoint # Assuming you create a new directory for this project
-
-
-*Note: This specific project might be located in a subdirectory or a separate repository. Adjust the clone command accordingly if the project is hosted elsewhere.*
-
-### Install dependencies
-
-Ensure you have Python installed, then install the required libraries:
-
-
-pip install pandas matplotlib seaborn scikit-learn lightgbm numpy
-
-
-### Run the project
-
-Execute the Python script (e.g., a Jupyter Notebook or a `.py` file containing the provided code):
-
-
-python your_script_name.py
-
-
-*Remember to upload `train.csv` and `test.csv` if running in an environment like Google Colab using `files.upload()`.*
 
 ## 📧 Contact
 
